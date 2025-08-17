@@ -1,0 +1,53 @@
+body{
+   background-color: #03BEFC;
+}
+
+h2 {
+    color: #005889;
+}
+
+span{
+    color: #005889;
+}
+
+#page {
+    margin: 125px 250px;
+    padding: 20px;
+    border-radius: 17px;
+    border-top: 15px solid #005889;
+    background-color: #ffffff;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.6);
+}
+
+#content-page {
+    margin: 20px;
+}
+
+#title-page {
+    text-align: center;
+    border-bottom: 3px solid #005889;
+    padding-bottom: 50px;
+    margin: 40px 300px 50px 300px;
+    box-shadow: 0 4px 3px -3px rgba(0, 0, 0, 0.5);
+}
+
+.style-box {
+    background-color: #eafaff;
+    border-left: 8px solid #005889;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    padding-top: 5px;
+    padding-bottom: 25px;
+    padding-left: 15px;
+    margin-bottom: 40px;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.skill-column ul {
+    list-style: none;
+}
