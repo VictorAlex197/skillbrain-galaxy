@@ -1,0 +1,14 @@
+.task-viewer-container {
+    max-width: 1780px;
+    padding: 40px;
+    border-radius: 50px;
+    background-color: #F3F3FB;
+    margin: 30px;
+}
+
+.task-list-container {
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+    flex-wrap: wrap ;
+}

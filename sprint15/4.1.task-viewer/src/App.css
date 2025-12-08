@@ -1,0 +1,12 @@
+.app-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.app-container > h1 {
+  padding-left: 40px;
+  font-size: 26px;
+}
